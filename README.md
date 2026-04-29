@@ -1,47 +1,40 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Nikhil
 
-###
+**Data Analytics Intern | Information Science & Engineering Student** 📍 Bangalore, India 🇮🇳
 
-<p align="left">My name is Nikhil, and I'm a Data Analytics Intern & ISE Student, from Bangalore, India 🇮🇳</p>
+Building data-driven solutions and occasionally "creating bugs" just to enjoy the thrill of fixing them. I bridge the gap between heavy data preprocessing and clean, actionable visualizations.
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛠️ Professional Toolbox
 
-###
+**Languages & Core** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">✨ Creating bugs since : 2022 — currently fixing them professionally as an intern 😄<br>📚 I'm currently learning : Real-world data analytics at QSpiders — preprocessing, visualization & actionable insights<br>🎯 Goals: Land a full-time Software Engineer or Data Analyst role and keep solving real-world problems<br>🎲 Fun fact: I built a gesture-controlled hologram display using just Python & a camera 🖐️</p>
+**Data Science & Databases** ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-###
+**Tools & Frameworks** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🚀 Featured Projects
+* **[Gesture-Controlled Hologram]** - Python-based system using OpenCV for real-time hand tracking and 3D visualization.
+* **[Project Name]** - Brief 1-sentence impact: e.g., "Automated data cleaning for X, reducing processing time by 30%."
+* **[Project Name]** - Brief 1-sentence impact: e.g., "Built a React dashboard to visualize SQLite-hosted retail trends."
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Power Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Nikhil's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+---
+
+> **Fun Fact:** My first project was a gesture-controlled hologram. I believe if you can visualize it, you can build it (and then debug it).
